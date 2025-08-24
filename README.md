@@ -35,7 +35,7 @@ Version Control: Git, GitHub
 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak%20Kumar-blue?logo=linkedin)](https://www.linkedin.com/in/mrdeepak0)  
-[![Email](https://img.shields.io/badge/Email-dpkjswl7%40gmail.com-red?logo=gmail)](mailto:dpkjswl7@gmail.com,kumardeepakg92@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dpkjswl7%40gmail.com-red?logo=gmail)](mailto:dpkjswl7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kumardeepakg92-black?logo=github)](https://github.com/kumardeepakg92)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=google-chrome)](https://mrdeepak0.github.io)  
 [![Blog](https://img.shields.io/badge/Blog-Hashnode-black?logo=hashnode)](https://deepakgupta0.hashnode.dev/)
